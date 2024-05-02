@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓 Studying Computer Science at McGill University, minoring in Economics.<br>- 🌐 Excited to automate everything! <br>- 🏅</p>
+<p align="left">- 🎓 CS @ McGill <br>- 🌍 Ready to change the world </p>
 
 ###
 
