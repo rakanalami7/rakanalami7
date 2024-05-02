@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Rakan, a Computer Science and Economics student at McGill University. Passionate about AI and technology, I aim to create innovative solutions. Explore my repositories to see the blend of creativity and technology!</p>
+<p align="left"></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓 Studying Computer Science at McGill University, minoring in Economics.<br>- 🌐 Skilled in AI, software engineering, with experience in banking and high-tech environments.<br>- 🏅 STEAM Award recipient, founder of Edulute and Feed initiatives.</p>
+<p align="left">- 🎓 Studying Computer Science at McGill University, minoring in Economics.<br>- 🌐 Excited to automate everything! <br>- 🏅</p>
 
 ###
 
