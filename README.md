@@ -6,12 +6,9 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Creating solutions ⏳</h2>
 
 ###
-
-<p align="left">- 🎓 CS @ McGill <br>- 🌍 Ready to change the world </p>
-
 ###
 
 <h2 align="left">I code with</h2>
