@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Creating solutions ⏳</h2>
+<h2 align="left">Automate All Things. ⏳</h2>
 
 ###
 ###
