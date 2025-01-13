@@ -1,10 +1,9 @@
 <h1 align="left">Welcome to my Github! 💸</h1>
+<img src="https://media.giphy.com/media/r1IMdmkhUcpzy/giphy.gif" width="480" height="360" alt="Cristiano Ronaldo GIF">
 
 ###
 
 <p align="left"></p>
-    <iframe src="https://giphy.com/embed/r1IMdmkhUcpzy" width="480" height="360" style="border:0;" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-    <p><a href="https://giphy.com/gifs/cristiano-ronaldo-r1IMdmkhUcpzy">via GIPHY</a></p>
 ###
 
 <h2 align="left">Automate All Things. ⏳</h2>
